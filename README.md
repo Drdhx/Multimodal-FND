@@ -113,8 +113,8 @@ LayerNorm+Linear    LayerNorm+Linear    Log1p+StandardScaler
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/Drdhx/multimodal-fake-news-detection.git
-cd multimodal-fake-news-detection
+git clone https://github.com/Drdhx/Multimodal-FND.git
+cd Multimodal-FND
 ```
 
 ### 2. Install dependencies
