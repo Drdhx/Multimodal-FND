@@ -11,7 +11,6 @@ A final year project implementing a multimodal fake news detection system on the
 | Field | Details |
 |---|---|
 | **Name** | Dhanush D |
-| **Email** | dhanushd1812@gmail.com |
 | **GitHub** | [github.com/Drdhx](https://github.com/Drdhx) |
 
 ---
